@@ -106,7 +106,9 @@ body {
     letter-spacing: 0.02em;
     color: #2E2F42;
 }
-
+.text-buttom {
+    color: #F4F4FD;
+}
 /* ACTION */
 .top-list:hover,
 .top-list:focus {
