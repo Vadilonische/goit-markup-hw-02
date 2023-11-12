@@ -117,7 +117,6 @@ body {
 }
 .menu-link {
     font-size: 16px;
-    font-weight: 500;
     line-height: 1.5;
     color: #434455;
 }
@@ -129,3 +128,6 @@ body {
 .text-button:focus {
     background-color: #404BBF;
 }
+a {
+    text-decoration: none;
+    }
