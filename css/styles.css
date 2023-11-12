@@ -44,17 +44,10 @@ body {
 .logo-type-bot {
     color: #F4F4FD;
 }
-.logo-central {
-    color: #FFFFFF;
-    background-color: #2E2F42;
-    font-size: 56px;
-    font-weight: 700;
-    line-height: 1.07;
-    letter-spacing: 0.02em;
-    text-align: center;
-}
-
 /* BACKGROUND */
+.logo-central {
+    background-color: #2E2F42;
+}
 .menu-bottom {
     background-color: #2E2F42;
     color: #F4F4FD;
@@ -67,6 +60,14 @@ body {
 }
 
 /* TEXT */
+.text-logo-central {
+    color: #FFFFFF;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+    text-align: center;
+}
 .text-button {
     color: #FFFFFF;
     background-color: #4D5AE5;
@@ -113,9 +114,6 @@ body {
 .top-list:hover,
 .top-list:focus {
    color: #404bbf;
-}
-.studio-link:active {
-text-decoration:underline
 }
 .menu-link {
     font-size: 16px;
